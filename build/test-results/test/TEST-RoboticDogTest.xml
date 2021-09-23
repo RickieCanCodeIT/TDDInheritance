@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RoboticDogTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-09-23T14:29:51" hostname="LAPTOP-RADB7TRF" time="0.054">
+  <properties/>
+  <testcase name="roboticDogShouldBeAbleToWalk()" classname="RoboticDogTest" time="0.054"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
